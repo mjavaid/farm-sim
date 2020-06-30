@@ -1,0 +1,20 @@
+#gamebox {
+  position: relative;
+}
+
+#gamemenu {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: white;
+  border: 1px solid #cecece;
+}
+
+#gamemenu li {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+#gamemenu li:hover {
+  background-color: #cecece;
+}
